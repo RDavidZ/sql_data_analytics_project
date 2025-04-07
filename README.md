@@ -6,3 +6,5 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ## 🛡️ License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+## About Me
+Hi there! I'm David Zinda and I’m a former auditor and currently pursuing a careerer in data analysisis!
